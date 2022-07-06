@@ -1,0 +1,38 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+section {
+    display: flex;
+}
+
+.top-banner {
+    margin-top: 100px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.half-width {
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-right: 7%;
+
+
+
+}
+
+.half-width img {
+    width: 100%
+}
+
+.link-button {
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 5px 8px;
+    border-radius: 5px;
+}
