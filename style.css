@@ -9,6 +9,12 @@ section {
 
 .top-banner {
     margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.about-me {
+    background-image: url(Frame\ 57.jpg);
+    background-repeat: no-repeat;
 }
 
 h1 {
